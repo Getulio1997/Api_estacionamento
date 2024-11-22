@@ -1,5 +1,5 @@
 # Criar uma Nova Migração
-python manage.py makemigrations nome_do_app --empty --name create_initial_nome_da_tabela
+python manage.py makemigrations nome_do_app --empty --name create_initial_nome_da_tabela <br>
 python manage.py makemigrations nome_do_app --empty --name insert_initial_nome_da_tabela
 
 
