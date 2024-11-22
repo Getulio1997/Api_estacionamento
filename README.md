@@ -1,3 +1,5 @@
+## Comandos para fazer a instalação do Django com o python e fazer as migrations para banco de dados.
+
 ### Instalar o Django.
 
 ```bash
