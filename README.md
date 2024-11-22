@@ -19,7 +19,7 @@ django-admin startproject meu_projeto
 ### Criar uma nova migrations.
 
 ```bash
-   python manage.py makemigrations nome_do_app --empty --name create_initial_nome_da_tabela
+python manage.py makemigrations nome_do_app --empty --name create_initial_nome_da_tabela
 ```
 
 ```bash
