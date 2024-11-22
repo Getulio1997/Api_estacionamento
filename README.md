@@ -1,5 +1,5 @@
 # Instalar o Django.
-pip install django
+Para instalar o Django, execute o seguinte comando: pip install django
 
 # Criação de um projeto novo.
 django-admin startproject meu_projeto
